@@ -1,0 +1,50 @@
+╔══════════════════════════════════════════════════════════════╗
+║                  DJ Harmonic v8.3                            ║
+║          Agent SoundCloud pour DJs — par Philippe            ║
+╚══════════════════════════════════════════════════════════════╝
+
+INSTALLATION
+────────────
+1. Décompresse le fichier ZIP
+2. Double-clique sur "Installer - DJ Harmonic.command"
+3. Si macOS bloque le fichier :
+   → Clic droit → Ouvrir → Ouvrir quand même
+4. L'app s'installe automatiquement dans /Applications
+
+NAVIGATEURS SUPPORTÉS
+──────────────────────
+✅ Brave Browser (recommandé)
+✅ Google Chrome
+✅ Microsoft Edge
+✅ Arc
+✅ Opera / Chromium
+✅ Firefox
+❌ Safari (non compatible)
+
+PRÉREQUIS
+──────────
+• macOS Sequoia (15) ou Tahoe (16)
+• Un des navigateurs ci-dessus installé
+• Connexion internet
+
+UTILISATION
+────────────
+1. Lance DJ Harmonic (Spotlight : ⌘ Espace → "DJ Harmonic")
+2. Le navigateur s'ouvre sur SoundCloud automatiquement
+3. Clique sur "← Config" pour configurer :
+   • Genres musicaux (55 disponibles)
+   • Plage BPM
+   • Clés Camelot (ou "✨ Toutes" pour sans filtre)
+   • Période de recherche
+4. Lance le scan → les tracks compatibles s'affichent
+
+EN CAS DE PROBLÈME
+───────────────────
+Consulte le log : ~/.djharmonic/launch.log
+Ouvre Terminal et tape : cat ~/.djharmonic/launch.log
+
+NOUVEAUTÉS v8.3
+────────────────
+✅ Support multi-navigateur (Brave/Chrome/Edge/Arc/Opera/Firefox)
+✅ 55 genres SoundCloud (House, Techno, Trance, DnB, Hip-Hop, Afrobeats...)
+✅ Détection automatique du navigateur installé

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>DJ Harmonic</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.djharmonic.bot</string>
+    <key>CFBundleName</key>
+    <string>DJ Harmonic</string>
+    <key>CFBundleDisplayName</key>
+    <string>DJ Harmonic</string>
+    <key>CFBundleVersion</key>
+    <string>2.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>DJ Harmonic doit contrôler Brave Browser pour injecter le bot de scan SoundCloud.</string>
+</dict>
+</plist>
